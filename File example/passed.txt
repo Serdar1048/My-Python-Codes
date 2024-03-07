@@ -1,0 +1,45 @@
+Eleanor                  Taylor                   Fizik                    78.4                     Gecti
+Lyla                     Dawson                   Matematik                89.5                     Gecti
+Cora Gill                Maryam                   Matematik Müh           83.4                     Gecti
+Jorgie                   James                    Bilgisayar Müh          79.7                     Gecti
+Keira                    Khan                     Bilgisayar Müh          76.5                     Gecti
+Scarlett                 Stone                    Matematik                89.5                     Gecti
+Arabella                 Wallace                  Bilgisayar Müh          74.8                     Gecti
+Darcey                   Woods                    Fizik                    77.9                     Gecti
+Robin                    Spencer                  Matematik                94.9                     Gecti
+Jamie                    Dawson                   Fizik Müh               77.9                     Gecti
+Val                      Kaur                     Matematik Müh           76.3                     Gecti
+Morgan                   Pearson                  Bilgisayar Müh          77.9                     Gecti
+Bailey Gill              River                    Fizik                    85.2                     Gecti
+Alexis                   Hamilton                 Fizik                    77.9                     Gecti
+Shay                     Smith                    Matematik Müh           83.0                     Gecti
+Silver                   Barker                   Matematik                79.7                     Gecti
+Brook                    Kaur                     Matematik Müh           73.0                     Gecti
+Robert                   Harper                   Kimya                    82.6                     Gecti
+Michael                  Alex                     Kimya Müh               81.8                     Gecti
+David                    Knight                   Bilgisayar Müh          77.9                     Gecti
+Joseph Dillon            Spencer                  Matematik Müh           89.5                     Gecti
+Thomas James             Zachary                  Gıda Müh               81.3                     Gecti
+Christopher              Dawson                   Bilgisayar Müh          79.7                     Gecti
+Paul Rufus               Pearson                  Matematik                81.2                     Gecti
+Mark Conor               Smith                    Kimya Müh               90.6                     Gecti
+Donald Kenneth           Eğilmez                 Kimya Müh               86.0                     Gecti
+Steven                   Johnson                  Fizik                    80.7                     Gecti
+George                   Aston                    Kimya Müh               73.8                     Gecti
+Brian                    John                     Kimya                    80.8                     Gecti
+Kevin Maxwell            Kennedy                  Matematik                72.5                     Gecti
+Jason                    Rogers                   Fizik Müh               72.5                     Gecti
+Glen                     Francis                  Fizik                    80.4                     Gecti
+Lee                      Fletcher                 Bilgisayar Müh          73.1                     Gecti
+Brook                    Duncan                   Bilgisayar Müh          88.7                     Gecti
+Phoenix                  Phillips                 Matematik                77.8                     Gecti
+Alicia Jody              Pearson                  Fizik                    79.2                     Gecti
+Ariella                  Hamilton                 Fizik                    74.5                     Gecti
+Rose Jasmine             Francis                  Matematik                82.2                     Gecti
+Lara                     Mccarthy                 Kimya Müh               79.0                     Gecti
+Blossom                  Cooper                   Bilgisayar Müh          78.6                     Gecti
+Stella                   Thompson                 Fizik                    89.5                     Gecti
+Ariella                  Davies                   Fizik Müh               71.0                     Gecti
+Lily Rose                Kelly                    Matematik                78.8                     Gecti
+Gabe                     Wells                    Bilgisayar Müh          73.8                     Gecti
+Jamie                    Henderson                Matematik                72.4                     Gecti
